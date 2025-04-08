@@ -1,5 +1,5 @@
 # LogsParser
-Приложение обрабатывает файлы логов с сайтов *i-master24.by* и *minskremont.by* и выводит информацию в нужном виде. Пример содержания файлов логов:
+Приложение обрабатывает файлы логов с сайтов *i-master24.by* и *minskremont.by* и выводит из них информацию в нужном виде в файл как аналитику. Пример содержания файлов логов:
 > 87.250.224.32 - - [31/Jan/2024:15:06:36 +0300] "GET /remont/stiralnykh-mashin/haier.html?ysclid=123 HTTP/1.0" 200 14752 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)"
 
 > 213.180.203.238 - - [31/Jan/2024:15:06:59 +0300] "GET /?yclid=7710547526903176844 HTTP/1.0" 200 16659 "-" "Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots yabs01)"
